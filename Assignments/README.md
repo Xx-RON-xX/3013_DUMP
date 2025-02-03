@@ -1,0 +1,6 @@
+## Assignments
+
+| Folder | Title | Description | Due Date | Due | Days Left<sup>*</sup> |
+|:------|:------|:------|:-----:|:-----:|-----|
+| ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/03-A03">03-A03</a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/03-A03"> Assignment 3 </a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/03-A03"> BST Delete</a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/03-A03">Feb 3rd</a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/03-A03">Monday by 2:00pm</a>*** | DUE TODAY! |
+| ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/04-T01">04-T01</a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/04-T01"> Test 1 </a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/04-T01"> Various Topics</a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/04-T01">Feb 12th</a>*** | ***<a href="https://github.com/rugbyprof/3013-Algorithms/tree/master/Assignments/04-T01">Wed @ 2:00</a>*** | 9 |
