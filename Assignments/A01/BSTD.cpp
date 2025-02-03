@@ -52,6 +52,7 @@ void printArray(int *a, int size, int foundIndex = -1) {
     cout << endl;
 }
 
+// This function performs a binary search on the sorted array to find the given key.
 int binary_search(int *a, int size, int key) {
     int l = 0, r = size - 1, m;
     while (l <= r) {
@@ -63,6 +64,7 @@ int binary_search(int *a, int size, int key) {
     return -1;
 }
 
+// This function removes a specified key from the sorted array and maintains its order.
 void delete_key(int*& a, int& size, int key) {
     int index = binary_search(a, size, key);
     if (index == -1) {
