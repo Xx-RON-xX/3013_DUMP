@@ -1,6 +1,6 @@
 |  #  | Folder Link                            | Assignment Description                               |
 | :-: | -------------------------------------- | ---------------------------------------------------- |
-|  1  | [A01](./FakeAssignments/A01/README.md) |  |
+|  1  | [A01](./Assignments/A01/README.md) | Binary search tree with a delete method |
 |  2  |  | |
 |  3  |  |       |
 |  1  |  |        |
