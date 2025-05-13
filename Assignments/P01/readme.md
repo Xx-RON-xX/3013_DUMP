@@ -77,15 +77,6 @@ Data encrypted with a public key can only be decrypted by its paired private key
 
 ---
 
-## 📎 Handout (Included)
-
-See [`ElGamal_Handout.pdf`](./ElGamal_Handout.pdf) or refer to your `presentation.pptx` for slides that summarize:
-- The ElGamal process
-- How encryption and decryption work
-- Key differences between RSA, ECC, and ElGamal
-
----
-
 ## 🎯 Goal
 
 This project demonstrates an understanding of **public key cryptography** by explaining ElGamal — a secure, elegant, and widely used encryption algorithm based on modular arithmetic and the discrete logarithm problem.
